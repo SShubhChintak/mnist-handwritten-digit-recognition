@@ -39,10 +39,14 @@ The CNN evaluation run recorded the following results on the 10,000-image MNIST 
 
 | Metric | Recorded result |
 |---|---:|
-| Test accuracy | **99.39%** |
-| Test loss | **0.0167** |
-| Validation accuracy | **99.20%** |
-| Training accuracy | **99.58%** |
+| Test accuracy | **99.40%** |
+| Test loss | **0.0175** |
+| Validation accuracy (best) | **99.17%** |
+| Training accuracy (best) | **99.51%** |
+| Macro precision | **99.41%** |
+| Macro recall | **99.39%** |
+| Macro F1-score | **99.39%** |
+| Weighted F1-score | **99.40%** |
 
 These values are from the recorded CNN run. Earlier ANN experiments in the notebook are development history and should not be confused with the final CNN results.
 
